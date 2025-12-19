@@ -9,7 +9,7 @@ Student Management System
 
 **Group Members:**
 
-| Name | Student ID |
+| Name | SETU ID |
 |:---:|:---:|
 | Ziyang Zhang | 20119439 |
 | Yiming Huang | 20119415 |
