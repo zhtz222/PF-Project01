@@ -4,14 +4,27 @@
 Student Management System
 
 ## Description
-This is the final assignment of Group 2 for the Fundamentals of Programming course.
+- This is the final assignment of Group 2 for the Fundamentals of Programming course.  
+- The program runs in the console and allows users to manage basic student information using a menu.
 
-**Group Members:** Ziyang Zhang (20119439), Yiming Huang (20119415), Tangjia Tao (20119427), Ruibo Zhou (20119438)
+**Group Members:**
 
-**Project Description:** The program runs in the console and allows users to manage basic student information using a menu.
+| Name | Student ID |
+|:---:|:---:|
+| Ziyang Zhang | 20119439 |
+| Yiming Huang | 20119415 |
+| Tangjia Tao | 20119427 |
+| Ruibo Zhou | 20119438 |
 
 ## Features
 The system provides the following functions:
+
+| Operation | Description |
+|:---:|:---:|
+| **Add Student** | Add a new student by entering basic information.<br>Each student ID must be unique. |
+| **View Students** | Display all students that have been added. |
+| **Update Student** | Modify the information of an existing student. |
+| **Delete Student** | Remove a student from the system by ID. |
 
 - **Add Student**
   - Add a new student by entering basic information.
