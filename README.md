@@ -26,6 +26,32 @@ The system provides the following functions:
 - **Delete Student**
   - Remove a student from the system by ID.
 
+## Task Distribution
+
+### Member 1: Entity Class Development (Student.java)
+- Responsible for designing and implementing the Student class
+- Encapsulate student attributes (ID, name, age, major)
+- Implement getter/setter methods and toString()
+- **Workload:** Light, suitable for members with foundational skills
+
+### Member 2: Data Management Module (StudentManager.java)
+- Implement CRUD operations for student data
+- Use ArrayList to manage the student collection
+- Develop removeStudentById and findStudentById methods
+- **Workload:** Medium, requires understanding of collection operations
+
+### Member 3: User Interface Layer (Main.java UI portion)
+- Design the menu system (printMenu method)
+- Implement user input/output interaction logic
+- Handle input validation and exception handling
+- **Workload:** Medium, requires understanding of console interaction
+
+### Member 4: Main Controller & Integration Testing
+- Responsible for main method flow control
+- Integrate all modules and perform system testing
+- Write test cases and project documentation
+- **Workload:** Heavy, requires big-picture perspective and debugging skills
+
 ## AI Usage
 We used AI to identify code omissions and unreasonable parts, which we then improved. For issues difficult to handle perfectly with our existing knowledge, AI helped supplement additional information to optimize the code. For example, `@Override` enables compile-time safety checks to ensure that the annotated method correctly overrides a method from the parent class/interface; otherwise, compilation will fail.
 
