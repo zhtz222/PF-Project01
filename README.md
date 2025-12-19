@@ -26,19 +26,6 @@ The system provides the following functions:
 | **Update Student** | Modify the information of an existing student. |
 | **Delete Student** | Remove a student from the system by ID. |
 
-- **Add Student**
-  - Add a new student by entering basic information.
-  - Each student ID must be unique.
-
-- **View Students**
-  - Display all students that have been added.
-
-- **Update Student**
-  - Modify the information of an existing student.
-
-- **Delete Student**
-  - Remove a student from the system by ID.
-
 ## Task Distribution
 
 ### Tangjia Tao (20119427): Entity Class Development (Student.java)
