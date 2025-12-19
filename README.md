@@ -28,25 +28,25 @@ The system provides the following functions:
 
 ## Task Distribution
 
-### Member 1: Entity Class Development (Student.java)
+### Tangjia Tao (20119427): Entity Class Development (Student.java)
 - Responsible for designing and implementing the Student class
 - Encapsulate student attributes (ID, name, age, major)
 - Implement getter/setter methods and toString()
 - **Workload:** Light, suitable for members with foundational skills
 
-### Member 2: Data Management Module (StudentManager.java)
+### Ruibo Zhou (20119438): Data Management Module (StudentManager.java)
 - Implement CRUD operations for student data
 - Use ArrayList to manage the student collection
 - Develop removeStudentById and findStudentById methods
 - **Workload:** Medium, requires understanding of collection operations
 
-### Member 3: User Interface Layer (Main.java UI portion)
+### Yiming Huang (20119415): User Interface Layer (Main.java)
 - Design the menu system (printMenu method)
 - Implement user input/output interaction logic
 - Handle input validation and exception handling
 - **Workload:** Medium, requires understanding of console interaction
 
-### Member 4: Main Controller & Integration Testing
+### Ziyang Zhang (20119439): Main Controller & Integration Testing
 - Responsible for main method flow control
 - Integrate all modules and perform system testing
 - Write test cases and project documentation
